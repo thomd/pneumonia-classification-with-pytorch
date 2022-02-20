@@ -4,3 +4,5 @@
 
 Download dataset from kaggle : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
+    unzip archive.zip
+    
