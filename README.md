@@ -1,8 +1,4 @@
 # Pneumonia Classification using PyTorch
 
-## Dataset
+<a href=\"https://colab.research.google.com/github/thomd/pneumonia-classification-with-pytorch/blob/main/pneumonia-classification.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 
-Download dataset from kaggle : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-
-    unzip archive.zip
-    
